@@ -77,10 +77,4 @@
     <a target="_blank" href="https://www.linkedin.com/in/arpit-kaple-740995260/" style="display: inline-block;">
         <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
     </a>
-    <a target="_blank" href="https://www.instagram.com/arpit_kaple/?igsh=cGVzMXR3cDN0MGpz" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
-    </a>
-    <a target="_blank" href="https://github.com/Arpit9437" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/github-logo?style=for-the-badge&logo=github&logoColor=white&color=%23000000" alt="github" />
-    </a>
 </p>
