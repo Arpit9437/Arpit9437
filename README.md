@@ -1,75 +1,32 @@
 <h1>Hi 👋, I'm Arpit Kaple</h1>
-<p>A passionate full-stack developer with a strong focus on building scalable, efficient, and high-performance applications. I enjoy the challenge of creating seamless user experiences while mastering the latest technologies across both front-end and back-end development.</p>
+<p>A passionate full-stack developer and machine learning enthusiast with a strong focus on building scalable, efficient, and high-performance applications. I enjoy the challenge of creating seamless user experiences while mastering the latest technologies across both front-end and back-end development.</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
-<p>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" />
-    </a>
-    <a target="_blank" href="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" style="display: inline-block;">
-        <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="42" height="42" />
-    </a>
-</p>
+<ul>
+    <li><strong>Programming Languages:</strong> C, C++, Java, JavaScript, Python</li>
+    <li><strong>Frontend Technologies:</strong> React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap</li>
+    <li><strong>Backend Technologies:</strong> Node.js, Express.js</li>
+    <li><strong>Databases:</strong> MongoDB, MySQL, Oracle, Firebase</li>
+    <li><strong>Cloud & Hosting:</strong> Firebase, Appwrite</li>
+    <li><strong>Version Control:</strong> Git, GitHub, GitLab</li>
+    <li><strong>Tools & Platforms:</strong> Postman, Figma, VS Code</li>
+</ul>
 
 <h2>💡 About Me</h2>
 <p>I'm a full-stack developer with expertise in building modern web and mobile applications. I thrive in collaborative environments and take pride in delivering high-quality solutions. From conceptualization to deployment, I work on both the front-end and back-end to create cohesive and well-rounded applications. I enjoy working with JavaScript frameworks (like React, Next.js, and Node.js) and tools that enable rapid development, such as Express, MongoDB, and Firebase.</p>
 
+<h2>🤖 Machine Learning Enthusiast</h2>
+<p>I have a growing passion for artificial intelligence and machine learning. I actively explore areas like NLP and model optimization. My work includes training and fine-tuning models using popular frameworks like PyTorch and HuggingFace Transformers. I'm particularly interested in building intelligent systems that integrate seamlessly with modern applications to solve real-world problems.</p>
+
 <h2>🛠️ My Skills</h2>
 <ul>
-    <li>Frontend Development: React.js, Next.js, TailwindCSS, Bootstrap, HTML5, CSS3, JavaScript</li>
-    <li>Backend Development: Node.js, Express.js, Java, Python</li>
-    <li>Databases: MongoDB, MySQL, Oracle, Firebase</li>
-    <li>Version Control: Git, GitHub, GitLab</li>
-    <li>Cloud: Firebase</li>
-    <li>Other Tools: Postman, Figma, VS Code, Webpack</li>
+    <li><strong>Frontend Development:</strong> React.js, Next.js, TailwindCSS, Bootstrap, HTML5, CSS3, JavaScript</li>
+    <li><strong>Backend Development:</strong> Node.js, Express.js, Java, Python</li>
+    <li><strong>Databases:</strong> MongoDB, MySQL, Oracle, Firebase</li>
+    <li><strong>Version Control:</strong> Git, GitHub, GitLab</li>
+    <li><strong>Cloud Platforms:</strong> Firebase</li>
+    <li><strong>ML/AI Tools:</strong> PyTorch, HuggingFace Transformers, Scikit-learn, TensorFlow (basics)</li>
+    <li><strong>Other Tools:</strong> Postman, Figma, VS Code, Webpack</li>
 </ul>
 
 <h2>⚡️ Where to find me</h2>
