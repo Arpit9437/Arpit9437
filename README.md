@@ -21,7 +21,7 @@
     <a target="_blank" href="https://www.linkedin.com/in/arpit-kaple-740995260/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="linkedin" />
 </a>
-<a target="_blank" href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" style="display: inline-block;">
+<a target="_blank" href="https://leetcode.com/u/Arknight9437/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge" alt="leetcode" />
 </a>
 <a href="mailto:arpitkaple13@gmail.com" style="display: inline-block;">
